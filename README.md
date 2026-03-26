@@ -26,3 +26,11 @@ A full-stack payment system built using Flask that simulates a real-world paymen
 ```bash
 pip install flask
 python app.py
+🔐 Login Credentials
+ Username: admin
+ Password: 1234
+
+🚀 Future Enhancements
+ Integrate Razorpay / Stripe
+Add Signup System
+Deploy Online
